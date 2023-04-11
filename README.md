@@ -49,3 +49,4 @@ The verifcation should have a very long span so dont worry about reverifying
 OpenAI/Geunis are easy to get just make an account and get the token id
 Input the token in live_song.py
 
+*Lyrics Button* just broke out of no where if someone wants to fix that slash command still works thou
