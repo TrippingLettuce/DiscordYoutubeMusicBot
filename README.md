@@ -2,7 +2,7 @@
 Discord Bot that displays currently listening too, liked music, writes descriptions for songs, recommends similar music, shows lyrics, search music by lyrics, like songs within discord.
 
 ## Example ScreenShots of Bot running 
-![GitHub2P](https://user-images.githubusercontent.com/82426784/236603446-8c6e7a25-460f-4a4c-abfb-77d4d5b6a844.png)
+<img src="https://user-images.githubusercontent.com/82426784/236603446-8c6e7a25-460f-4a4c-abfb-77d4d5b6a844.png" alt="GitHub2P" width="300" />
 ![GitP1](https://user-images.githubusercontent.com/82426784/236603448-2486b47b-4b3f-4ec6-a4f5-8f99766949c8.png)
 ![rifhwjrn](https://user-images.githubusercontent.com/82426784/236603463-5eb10b38-616c-4be7-99fd-122445ac81d2.png)
 
